@@ -15,6 +15,6 @@ Målet med övningen är att skapa en egen lokal JSON-fil (i mappen) med korrekt
 
 3. Använd metoden fetch() för att förfråga och ta emot svaret. 
 
-4. Skriv ut varje att-göra i en ul-lista. Applicera styling om att-göra-punkten är "completed" eller inte- 
+4. Skriv ut varje att-göra i en ul-lista. Applicera styling för varje att-göra-punkten, så att det framgår vilken/vilka är "completed" eller inte. 
 
 
