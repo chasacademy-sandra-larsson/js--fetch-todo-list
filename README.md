@@ -7,7 +7,7 @@ Syftet med övningen är att bekanta sig med dataformatet JSON (JavaScript Objec
 Målet med övningen är att skapa en egen lokal JSON-fil (i mappen) med korrekt formatering innehållande några att-göra-punkter och information om respektive är "completed" eller inte. Ni hämtar datan från den lokala JSON-filen med fetch() och renderar svaret i valda DOM-element.
 
 
-Instruktioner
+## Instruktioner
 
 1. Skapa en JSON-fil lokalt i mappen. Den ska innehålla minst fem stycken att-göra-punkter enligt JSON-formatets regler. Varje att-göra ska även innehålla en "completed" som är satt till true eller false.
 
