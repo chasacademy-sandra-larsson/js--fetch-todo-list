@@ -1,4 +1,4 @@
-# JavasScript - JSON Todo-list
+# JavaScript - JSON Todo-list
 
 Arbeta 2 och 2.
 
