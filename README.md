@@ -1,7 +1,5 @@
 # JavaScript - JSON Todo-list
 
-Arbeta 2 och 2.
-
 Syftet med övningen är att bekanta sig med dataformatet JSON (JavaScript Object Notation) som används som utbyte av data, oftast vid anrop av ett externt API, samt hur man använder metoden fetch() ([se här](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)) för att skicka en förfrågan om datan och hantera svaret. 
 
 Målet med övningen är att skapa en egen lokal JSON-fil (i mappen) med korrekt formatering innehållande några att-göra-punkter och information om respektive är "completed" eller inte. Ni hämtar datan från den lokala JSON-filen med fetch() och renderar svaret i valda DOM-element.
